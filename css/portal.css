@@ -88,11 +88,13 @@ body {
     height: 80px;
     float: right;
     margin-top: 7px;
-    background-color: red;
+    background-color: #CCC;
+    font-size: 20px;
+    text-align: center;
 }
 .menu {
     height: 40px;
-    background-color: red;
+    background-color: #CCC;
 }
 .menuint{
     width: 100%;
@@ -160,7 +162,7 @@ body {
 
 }
 .ultnoticiastitulo {
-    background-color: #FF5555;
+    background-color: #333333;
     color: #FFF;
     height:28px;
     display: inline-block;
